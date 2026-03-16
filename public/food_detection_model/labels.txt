@@ -1,0 +1,10 @@
+0 Vegetable-Fruit
+1 Soup
+2 Seafood
+3 Meat
+4 Noodle
+5 Rice
+6 Fried Food
+7 Egg
+8 Dessert
+9 Bread
