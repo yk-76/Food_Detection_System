@@ -146,7 +146,7 @@ CREATE DATABASE food_detection;
 Then import the schema file:
 
 ```
-mysql -u root -p food_detection < database/schema.sql
+mysql -u your_username -p food_detection < database/schema.sql
 ```
 
 Tables included:
