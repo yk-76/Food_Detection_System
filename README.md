@@ -213,7 +213,6 @@ Food_Detection_System
 # 📸 Screenshots
 
 <img width="1185" height="2551" alt="127 0 0 1_8000_services (1)" src="https://github.com/user-attachments/assets/9c0160b6-4b48-469f-8f77-ef8d468ad30b" />
-<img width="1185" height="13255" alt="127 0 0 1_8000_records" src="https://github.com/user-attachments/assets/f6feabde-ba10-419e-a4c0-5affab686d7c" />
 
 Example:
 
