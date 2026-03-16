@@ -568,11 +568,12 @@ fileInput.addEventListener('change', function(e) {
 
     try {
         // Step A: Get detection from Roboflow
-        const response = await fetch('https://serverless.roboflow.com/eatwise/workflows/detect-count-and-visualize', {
+        const response = await fetch('https://serverless.roboflow.com/{{ config("services.roboflow.workspace") }}/workflows/{{ config("services.roboflow.workflow") }}', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                api_key: 'PrvGHPhydqS6isMWUpmF',
+                // Placeholder used for API Key
+                api_key: '{{ config("services.roboflow.key") }}',
                 inputs: { "image": { "type": "base64", "value": imageData } }
             })
         });
