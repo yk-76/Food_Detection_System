@@ -1,4 +1,4 @@
-# 🍔 Food Detection & Health Recommendation System
+<img width="1185" height="1395" alt="127 0 0 1_8000_" src="https://github.com/user-attachments/assets/a8afed0a-a896-4669-b14a-d0a3c214278f" /># 🍔 Food Detection & Health Recommendation System
 
 A web-based food detection and health recommendation platform built using Laravel, Tailwind CSS, Roboflow, and Gemini AI.
 
@@ -212,13 +212,14 @@ Food_Detection_System
 
 # 📸 Screenshots
 
+<img src="https://github.com/user-attachments/assets/d5f6d7d8-a23d-47b7-ae54-2476b5a07845" width="600" />
+
 <img src="https://github.com/user-attachments/assets/9c0160b6-4b48-469f-8f77-ef8d468ad30b" width="600" />
 
 Example:
 
-* Upload food page
-* Detection result page
-* AI recommendation page
+* Home Page
+* Detection result page (With AI recommendation, Results)
 
 ---
 
